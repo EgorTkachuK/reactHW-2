@@ -1,0 +1,35 @@
+
+
+table {
+    margin-top: 40px;
+  border-collapse: collapse; 
+}
+td, th {
+  border: 2px solid white; 
+}
+
+
+.transaction-history{
+    border-radius: 20px;
+    background-color: black;
+    width: 1250px;
+}
+.tboy{
+    
+    width: 1250px;
+}
+tr{
+   width: 1250px;   
+}
+th{
+    width: 416.6px;
+    height: 80px;
+}
+
+td{
+    width: 416.6px;
+  padding-left: 161px;
+  height: 55px;
+
+   
+}

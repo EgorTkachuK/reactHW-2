@@ -1,0 +1,31 @@
+
+.profile{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+.miniprofile{
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 100px;
+    width: 1250px;
+    height: 512px;
+    margin-top: 50px;
+    
+}
+.description{
+    
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+}
+.stats{
+   
+    display: flex;
+   flex-direction: column;
+   row-gap: 50px;
+}

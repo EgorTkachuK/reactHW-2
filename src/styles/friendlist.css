@@ -1,0 +1,41 @@
+
+.green{
+   background-color: green;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+}
+
+.red{
+   background-color: red;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+}
+
+
+.friend-list{
+    margin-top: 35px;
+    display: flex;
+    width: 1250px;
+    flex-wrap: wrap;
+    column-gap: 50px;
+    row-gap: 30px;
+}
+
+.item{ 
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+    background-color: black;
+    width: 350px;
+    height: 80px;
+}
+
+.friend-avatar{
+    background-color: white;
+    border-radius: 50%;
+    height: 48px;
+}

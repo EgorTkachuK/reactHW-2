@@ -1,0 +1,23 @@
+
+
+
+
+
+
+.stat-list{
+    margin-top: 40px;
+    display: flex;
+    column-gap: 16.6px;
+}
+.stat-item{
+    border-radius: 15px;
+    font-size: 30px;
+    width: 300px;
+    height: 160px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
